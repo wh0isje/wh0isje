@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Jerusa 
 
-Sou entusiasta em Cybersecurity e trabalho na área de Blue Team. 
+Sou entusiasta em Cybersecurity e trabalho na área de AppSec. 
 
 
 ### O que eu estudo

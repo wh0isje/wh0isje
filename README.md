@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Jerusa 
 
-Sou entusiasta em Cybersecurity e trabalho na área de AppSec. 
+Sou Engenheira em Cybersegurança focada em AppSec, com experiência em pentests de aplicações web, APIs e plataformas mobile.
 
 
 ### O que eu estudo

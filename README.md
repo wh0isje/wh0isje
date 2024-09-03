@@ -12,8 +12,7 @@
 
 ###
 
-<h3 align="left">Olá! Eu sou a Jerusa</h3>
-Sou Engenheira em Cybersegurança focada em AppSec, com experiência em pentests de aplicações web, APIs e plataformas mobile. 
+Olá! Eu sou a Jerusa, engenheira em cybersegurança focada em AppSec, com experiência em pentests de aplicações web, APIs e plataformas mobile. 
 
 📚 Atualmente estou focada em Pentest.
 ⚡ No meu tempo livre estou no tryhackme

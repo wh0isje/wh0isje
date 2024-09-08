@@ -63,3 +63,7 @@ Olá! Eu sou a Jerusa, engenheira em cybersegurança focada em AppSec, com exper
 <a href="Ywaine#BR1" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" targert="_blank"></a>
 
 </div>
+
+###
+
+<h3 align="center">💻 hack all the things 💻</h3>

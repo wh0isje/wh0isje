@@ -54,14 +54,6 @@ Olá! Eu sou a Jerusa, engenheira em cybersegurança focada em AppSec, com exper
 
 ###
 
-### Além disso, sou gamer! pode me encontrar
-
-<div>
-
-<a href="https://steamcommunity.com/id/jerusag/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" targert="_blank"></a>
-<a href="Ywaine#1490" target="_blank"><img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" targert="_blank"></a>
-<a href="Ywaine#BR1" target="_blank"><img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" targert="_blank"></a>
-
 </div>
 
 ###

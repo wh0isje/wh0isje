@@ -1,18 +1,15 @@
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###   
+<h1 align="center">hey there 👋</h1>   
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+<p align="left"> 
+Olá! Meu nome é Jerusa. Sou engenheira em cybersegurança focada em Application Security, com experiência em pentests de aplicações web, APIs e plataformas mobile. 
 
-Olá! Eu sou a Jerusa, engenheira em cybersegurança focada em AppSec, com experiência em pentests de aplicações web, APIs e plataformas mobile. 
+<p align="left"><br> 📚 Atualmente estou focada em Pentest.<br> ⚡ No meu tempo livre estou no TryHackMe e HackTheBox</p>
+</p>
 
-<p align="left"><br> 📚 Atualmente estou focada em Pentest.<br> ⚡ No meu tempo livre estou no tryhackme</p>
-
-###
+---
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -52,21 +49,15 @@ Olá! Eu sou a Jerusa, engenheira em cybersegurança focada em AppSec, com exper
   <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="gitlab logo"  />
 </div>
 
-###
-
-</div>
-
-###
-
-<h3 align="center">hack all the things</h3>
-
 
 ###
 
 
 </div>
 
-####
+---
+
+### ⭐ TryHackMe Stats
 
 <div align="center">
 

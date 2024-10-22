@@ -58,4 +58,20 @@ Olá! Eu sou a Jerusa, engenheira em cybersegurança focada em AppSec, com exper
 
 ###
 
-<h3 align="center">💻 hack all the things 💻</h3>
+<h3 align="center">hack all the things</h3>
+
+
+###
+
+
+</div>
+
+####
+
+<div align="center">
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/wh0isje.png" alt="Your Image Badge" />
+
+</div>
+
+

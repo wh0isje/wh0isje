@@ -4,12 +4,11 @@
 
 ###
 <p align="left"> 
-Olá! Meu nome é Jerusa. Sou engenheira em cybersegurança focada em Application Security, com experiência em pentests de aplicações web, APIs e plataformas mobile. 
+Olá! Meu nome é Jerusa. Sou engenheira em cybersegurança focada em Application Security. Tenho experiência em testes de penetração (pentests) em aplicações web, APIs e plataformas mobile.
 
-<p align="left"><br> 📚 Atualmente estou focada em Pentest.<br> ⚡ No meu tempo livre estou no TryHackMe e HackTheBox</p>
+<p align="left"><br> 📚 Atualmente estou focada em pentesting e aprimoramento contínuo.<br> ⚡ No meu tempo exploro desafios no TryHackMe e HackTheBox, sempre em busca de novas habilidades e conhecimentos.</p>
 </p>
 
----
 
 <h3 align="left">🛠 Language and tools</h3>
 

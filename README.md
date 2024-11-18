@@ -54,7 +54,7 @@ Olá! Meu nome é Jerusa. Sou engenheira em cybersegurança focada em Applicatio
 
 <div align="center">
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/wh0isje.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/wh0isje.png" alt="Your Image Badge"/>
 
 </div>
 

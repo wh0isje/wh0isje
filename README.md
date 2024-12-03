@@ -11,7 +11,6 @@ Olá! Meu nome é Jerusa, sou Engenheira de Segurança com foco em Application S
 🚀 Estou em processo de obtenção de certificações como eJPT, eWPTX e DCPT.<br> 
 🎯 Minhas habilidades incluem gestão de vulnerabilidades, automação de processos, SDLC, Docker, Kubernetes, entre outros.<br><br>
 
-Vamos nos conectar e conversar sobre como posso contribuir para seus projetos de segurança!
 </p>
 
 <h3 align="left">🛠 Language and tools</h3>

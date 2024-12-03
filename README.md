@@ -57,7 +57,7 @@ Olá! Meu nome é Jerusa, sou Engenheira de Segurança com foco em Application S
 
 <div align="center">
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/wh0isje.png" alt="Your Image Badge"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/wh0isje.png" alt="Your Image Badge" />
 
 </div>
 

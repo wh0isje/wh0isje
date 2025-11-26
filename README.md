@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-Sou Jerusa, Engenheira de Segurança com foco em **Application Security** e **Pentest**.  
+Engenheira de Segurança com foco em **Application Security** e **Pentest**.  
 Trabalho com segurança de aplicações web, APIs e mobile, threat modeling, revisão de código seguro e automação de processos em pipelines de CI/CD.
 
 Atualmente, estou aprofundando minha formação em pentest pela **Desec**, estudando Pentest Profissional e Pentest Mobile.

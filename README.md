@@ -67,45 +67,32 @@ No meu tempo livre, evoluo minhas habilidades praticando desafios no **TryHackMe
 ### 🛡 Security Stack
 <div>
 
-  <!-- Burp Suite -->
-  <img src="https://raw.githubusercontent.com/wh0isje/assets/main/burp.png" height="40" />
-  <img width="6" />
-
-  <!-- OWASP ZAP -->
-  <img src="https://raw.githubusercontent.com/zaproxy/zaproxy/main/zap/src/main/resources/resource/zap128x128.png" height="40" alt="OWASP ZAP" />
-  <img width="6" />
-
-  <!-- TryHackMe -->
-  <img src="https://cdn.simpleicons.org/tryhackme/212C42" height="40" alt="TryHackMe" />
-  <img width="6" />
-
-  <!-- HackTheBox -->
-  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="40" alt="HackTheBox" />
-  <img width="6" />
-
-  <!-- SonarQube -->
-  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="40" />
-  <img width="6" />
-
-  <!-- GitLab -->
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="GitLab" />
-
+- **Burp Suite**  
+- **OWASP ZAP**  
+- **Nmap**  
+- **ffuf**  
+- **sqlmap**  
+- **Nikto**  
+- **wpscan**  
+- **jwt_tool / token scanners**   
+- **Snyk (SAST/SCA/Container/Infra)**  
+- **Semgrep**  
+- **Tenable / Nessus / WAS**
 </div>
 
 ---
 
 ### ⚙️ DevSecOps & Infra
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img width="6" />
-
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" />
   <img width="6" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   <img width="6" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" />
 </div>
 
 ---

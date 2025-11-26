@@ -1,58 +1,129 @@
 <h1 align="center">hey there 👋</h1>
 
-<h3 align="left">👩‍💻 About Me</h3>
-
-<p align="left">
-Engenheira de Segurança / Application Security e Pentester. Tenho experiência em testes de segurança em aplicações web, APIs e mobile, threat modeling, automação e revisão de código seguro.<br><br>
-
-📚 Atualmente, estou focada em pentesting e aprimoramento contínuo, estudando Cybersecurity na Desec (Pentest Profissional e Pentest Mobile).<br>
-⚡ No meu tempo livre, exploro desafios no TryHackMe e HackTheBox para desenvolver novas habilidades e conhecimentos.<br>
-🚀 Estou em processo de obtenção de certificações como eJPT, eWPTX e DCPT.<br>
-🎯 Minhas habilidades incluem gestão de vulnerabilidades, automação de processos, SDLC, Docker, Kubernetes, entre outras.<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Engineer-blue?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AppSec-Specialist-purple?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pentester-red?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="left">🛠 Languages and Tools</h3>
+## 👩‍💻 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
+Sou Jerusa, Engenheira de Segurança com foco em **Application Security** e **Pentest**.  
+Trabalho com segurança de aplicações web, APIs e mobile, threat modeling, revisão de código seguro e automação de processos em pipelines de CI/CD.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
+Atualmente, estou aprofundando minha formação em pentest pela **Desec**, estudando Pentest Profissional e Pentest Mobile.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
-  <img width="12" />
+No meu tempo livre, evoluo minhas habilidades praticando desafios no **TryHackMe** e **HackTheBox**, além de estudar para certificações da área.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
-  <img width="12" />
+**✨ Em andamento:**  
+- eJPT  
+- eWPTX  
+- DCPT  
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
+**🛡 Experiência em:**  
+- Vulnerability Management  
+- SAST, SCA, DAST (Snyk, Semgrep, ZAP, Burp Suite)  
+- Hardening e segurança de APIs  
+- Docker, Kubernetes  
+- SDLC & DevSecOps  
+- Python e automações para segurança  
 
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo" />
-  <img width="12" />
+---
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
+## 🔥 Highlights
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
+### 💡 O que faço hoje
+- Atuo com segurança de aplicações no dia a dia  
+- Realizo análises de risco e threat modeling  
+- Crio automações e ferramentas internas para segurança  
+- Auxilio equipes dev na construção de software seguro  
+- Desenvolvo scripts para auditorias e pentests internos
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
+### 📈 Foco atual
+- Pentest Web e Mobile  
+- API Security  
+- Automação ofensiva com Python  
+- Segurança em Cloud (AWS)
 
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
-  <img width="12" />
+---
 
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="gitlab logo" />
+## 🛠 Languages & Tools
+
+### 🔧 Core Languages & Scripts
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash" />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
 </div>
 
 ---
 
-### ⭐ TryHackMe Stats
+### 🛡 Security Stack
+<div>
 
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/wh0isje.png" alt="TryHackMe Badge" />
+  <!-- Burp Suite -->
+  <img src="https://raw.githubusercontent.com/wh0isje/assets/main/burp.png" height="40" />
+  <img width="6" />
+
+  <!-- OWASP ZAP -->
+  <img src="https://raw.githubusercontent.com/zaproxy/zaproxy/main/zap/src/main/resources/resource/zap128x128.png" height="40" alt="OWASP ZAP" />
+  <img width="6" />
+
+  <!-- TryHackMe -->
+  <img src="https://cdn.simpleicons.org/tryhackme/212C42" height="40" alt="TryHackMe" />
+  <img width="6" />
+
+  <!-- HackTheBox -->
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="40" alt="HackTheBox" />
+  <img width="6" />
+
+  <!-- SonarQube -->
+  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="40" />
+  <img width="6" />
+
+  <!-- GitLab -->
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="GitLab" />
+
 </div>
+
+---
+
+### ⚙️ DevSecOps & Infra
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="6" />
+
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes" />
+  <img width="6" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="6" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
+</div>
+
+---
+
+## 📌 Projects & Labs (em construção)
+
+🔹 **AppSec Toolbox (scripts úteis)** — automações e ferramentas próprias  
+🔹 **API Security Lab** — ambiente para treinar exploits em APIs  
+🔹 **Pentest Notes** — metodologia + checklists + referências  
+🔹 **Web Security Challenges** — soluções para labs THM/HTB  
+
+---
+
+## 📚 Currently Learning
+
+- Pentest Profissional (Desec)  
+- Pentest Mobile (Desec)  
+- Offensive Python  
+- Segurança de APIs avançada  
+- Kubernetes Security  
+- AWS Security Essentials  

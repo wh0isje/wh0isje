@@ -56,7 +56,7 @@ Offensive Python & Custom Tooling
 ## 🛠 Tech Stack
 
 <div align="left">
-  <img height="36" src="https://skillicons.dev/icons?i=python,java,php,js,go,flask,django,nodejs,nginx,postgresql,mysql,mongodb,elasticsearch,docker,kubernetes,terraform,aws,gitlab,selenium,pytest,jest,bash,graphql" />
+  <img height="80" src="https://skillicons.dev/icons?i=python,java,php,js,go,flask,django,nodejs,c,nginx,postgresql,mysql,mongodb,elasticsearch,docker,kubernetes,terraform,aws,gitlab,selenium,jest,bash,graphql,npm" />
 </div>
 
 

@@ -1,6 +1,10 @@
 <div align="center">
+
 <img align="center" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50px" height="50px">
-wh0isje | AppSec Engineer
+
+<br>
+
+# wh0isje | AppSec Engineer
 
 <p>
   <img src="https://img.shields.io/badge/AppSec-Offensive%20%26%20Defensive-red?style=for-the-badge&logo=kali-linux&logoColor=white" />
